@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# Version 2
+# Version 1
 print (30 * '-')
 print ("   M A I N - M E N U")
 print (30 * '-')
