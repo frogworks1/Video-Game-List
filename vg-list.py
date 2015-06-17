@@ -12,6 +12,7 @@ print (30 * '-')
 ## Robust error handling ##
 ## only accept int       ##
 ###########################
+
 ## Wait for valid input in while...not ###
 is_valid=0
  
